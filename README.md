@@ -1,3 +1,3 @@
 # MERN-course
 
-## All files are uploaded as part of the MERN Certification course program
+## All files uploaded are part of the MERN Certification course program
